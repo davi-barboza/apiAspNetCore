@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\davi\\Nova pasta\\apiAspNetCore\\teste.csproj",
+  "FilePath": "c:\\davi\\Nova pasta\\apiAspNetCore\\apiAspNetCore.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15616,7 +15616,7 @@
     ],
     "CSharpLanguageVersion": 900
   },
-  "RootNamespace": "teste",
+  "RootNamespace": "apiAspNetCore",
   "Documents": [],
   "SerializationFormat": "0.2"
 }
